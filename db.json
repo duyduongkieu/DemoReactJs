@@ -1,0 +1,66 @@
+{
+  "customers": [
+    {
+      "id": "ac1ee2cc",
+      "name": "Thor",
+      "img": "http://sohanews.sohacdn.com/2018/4/30/photo-4-1525057017345862286262.jpg",
+      "status": false
+    },
+    {
+      "name": "Aquaman",
+      "img": "https://media.vanityfair.com/photos/5c30e9793fa6927f3c5fb480/master/pass/aquaman-box-office.jpg",
+      "status": true,
+      "id": "6b6273b2-7db9-4d86-8008-d2a1ccdf63e8"
+    },
+    {
+      "name": "Doctor Strange",
+      "img": "http://genknews.genkcdn.vn/thumb_w/640/2016/xdoctor-strange-movie-composer-cumberbatch-730x400-jpg-pagespeed-ic-ku6kh1semh-1477383691375.jpg",
+      "status": true,
+      "id": "bcb2ca25-105c-4c14-b53d-c0111e232004"
+    },
+    {
+      "name": "Spider man",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Web_of_Spider-Man_Vol_1_129-1.png/250px-Web_of_Spider-Man_Vol_1_129-1.png",
+      "status": false,
+      "id": "17a247b7-4c5a-4358-9680-73339cd12382"
+    },
+    {
+      "id": "19d697e0-c221-42b4-9efa-218e330ee33b",
+      "name": "Captain America",
+      "img": "https://genknews.genkcdn.vn/2016/1-1480503198195.jpg",
+      "status": false
+    },
+    {
+      "id": "7111b781-1993-4f7c-bf6b-15d7ddb3c072",
+      "name": "Black Panther",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Black_Panther_OS_Vol_1_2.png/250px-Black_Panther_OS_Vol_1_2.png",
+      "status": true
+    },
+    {
+      "id": "d245518e-67de-48f3-858d-0f098dc2845a",
+      "name": "Hulk",
+      "img": "https://i.pinimg.com/originals/54/ea/48/54ea48679fb376d9f067b63f0815fc36.jpg",
+      "status": true
+    },
+    {
+      "id": "3d32681d-21f4-479a-be9e-650ef32891a1",
+      "name": "Batman",
+      "img": "https://www.thewrap.com/wp-content/uploads/2016/09/batman-and-robin-nipples.jpg",
+      "status": false
+    }
+  ],
+  "carts": [
+    {
+      "id": "ac1ee2cc",
+      "name": "Thor",
+      "img": "http://sohanews.sohacdn.com/2018/4/30/photo-4-1525057017345862286262.jpg",
+      "status": true
+    },
+    {
+      "name": "Aquaman",
+      "img": "https://media.vanityfair.com/photos/5c30e9793fa6927f3c5fb480/master/pass/aquaman-box-office.jpg",
+      "status": true,
+      "id": "6b6273b2-7db9-4d86-8008-d2a1ccdf63e8"
+    }
+  ]
+}

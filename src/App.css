@@ -31,3 +31,25 @@
     transform: rotate(360deg);
   }
 }
+.active1 {
+    font-weight: 600;
+}
+.classTrue {
+    background: #0dce0d;
+    color: white;
+    font-weight: 600;
+    font-size: 13px;
+    padding: 2px 10px;
+    border-radius: 5px;
+}
+.classFalse {
+    background: red;
+    color: white;
+    font-weight: 600;
+    font-size: 13px;
+    padding: 2px 10px;
+    border-radius: 5px;
+}
+.ant-modal-footer {
+    display: none;
+}
